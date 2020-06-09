@@ -1,6 +1,6 @@
 {
   "name": "react-create-custom-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export react component as custom element",
   "main": "lib/index.js",
   "scripts": {
@@ -24,9 +24,9 @@
   "author": "lissettdm",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lissettdm/react-shadow-portal/issues"
+    "url": "https://github.com/lissettdm/react-custom-element.git/issues"
   },
-  "homepage": "https://github.com/lissettdm/react-shadow-portal#readme",
+  "homepage": "https://github.com/lissettdm/react-custom-element.git#readme",
   "browserslist": {
     "production": [
       ">0.2%",
